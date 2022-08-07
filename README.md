@@ -64,9 +64,9 @@ To commit and push your contribution, follow the steps below:
 1. If you're using Github Desktop, skip to Step 2. For CMD, do the following:
     * Navigate to the base directory of the repo and not your folder directory
 
-    ![scr10-wrong](https://raw.githubusercontent.com/EmmanuelHillary/Bluelancer-Frontend/main/readme/Screenshot%20(56)I.jpg)
-    ![scr10](https://raw.githubusercontent.com/EmmanuelHillary/Bluelancer-Frontend/main/readme/Screenshot%20(57)_LI.jpg)
-    ![scr10-correct](https://raw.githubusercontent.com/EmmanuelHillary/Bluelancer-Frontend/main/readme/Screenshot%20(58).jpg)
+    ![image](https://raw.githubusercontent.com/EmmanuelHillary/Bluelancer-Frontend/main/readme/Screenshot%20(56)_LI.jpg)
+    ![image](https://raw.githubusercontent.com/EmmanuelHillary/Bluelancer-Frontend/main/readme/Screenshot%20(57).jpg)
+    ![image](https://raw.githubusercontent.com/EmmanuelHillary/Bluelancer-Frontend/main/readme/Screenshot%20(58)_LI.jpg)
 
     * Then run the following commands:
         * ``` git add . ```
