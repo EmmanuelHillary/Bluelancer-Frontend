@@ -65,7 +65,7 @@ To commit and push your contribution, follow the steps below:
     * Navigate to the base directory of the repo and not your folder directory
 
     ![image](https://raw.githubusercontent.com/EmmanuelHillary/Bluelancer-Frontend/main/readme/Screenshot%20(56)_LI.jpg)
-    ![image](https://raw.githubusercontent.com/EmmanuelHillary/Bluelancer-Frontend/main/readme/Screenshot%20(57).jpg)
+    ![image](https://raw.githubusercontent.com/EmmanuelHillary/Bluelancer-Frontend/main/readme/Screenshot%20(57).png)
     ![image](https://raw.githubusercontent.com/EmmanuelHillary/Bluelancer-Frontend/main/readme/Screenshot%20(58)_LI.jpg)
 
     * Then run the following commands:
