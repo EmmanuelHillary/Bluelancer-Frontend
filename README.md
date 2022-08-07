@@ -1,6 +1,6 @@
 # Bluelancer-Frontend
 
-## Contribution Guide (for Frontend only)
+## Contribution Guide (Example)
 
 ### Fork this repository
 This creates a copy of this repository and saves it to your own personal Github account
@@ -57,7 +57,7 @@ form of a folder and the name of the folder should be a brief description of wha
 Inside the folder you created, you should then add the files (HTML and/or CSS) for the part you worked on.</br>
 
 ![scr8](https://raw.githubusercontent.com/EmmanuelHillary/Bluelancer-Frontend/main/readme/Screenshot%20(54)_LI.jpg)
-![image](https://raw.githubusercontent.com/EmmanuelHillary/Bluelancer-Frontend/main/readme/Screenshot%20(55).jpg)
+![image](https://raw.githubusercontent.com/EmmanuelHillary/Bluelancer-Frontend/main/readme/Screenshot%20(55).png)
 
 ### Commit your changes and push to Github
 To commit and push your contribution, follow the steps below:
