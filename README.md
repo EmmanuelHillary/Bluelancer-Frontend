@@ -122,7 +122,9 @@ and merge your Pull Request.</br>
 
 ### Updating your forked repo
 When pending changes has been made to the main repo from which you forked
+
 ![scr14](https://raw.githubusercontent.com/EmmanuelHillary/Bluelancer-Frontend/main/readme/Screenshot%20(68)_LI.jpg)
+
 follow the steps below to update your forked repo:
    1. Click on Sync fork
    2. Click Update branch
