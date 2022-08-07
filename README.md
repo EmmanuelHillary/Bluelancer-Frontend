@@ -22,7 +22,7 @@ Once the fork has been created in your account, clone the forked repository to y
 3. If you're using Github Desktop, skip to Step 4, for CMD or any other terminal, run the following in the directory of your choice:
     * ``` git clone [the-link-you-just-copied] [name-the-repo-or-leave-this-blank] ```
     
-    ![image](https://raw.githubusercontent.com/EmmanuelHillary/Bluelancer-Frontend/main/readme/Screenshot%20(48).jpg)
+    ![image](https://raw.githubusercontent.com/EmmanuelHillary/Bluelancer-Frontend/main/readme/Screenshot%20(48).png)
 
 4. For Github Desktop
     * Open your Github Desktop app
@@ -39,11 +39,11 @@ Once the fork has been created in your account, clone the forked repository to y
     * Only select the forked repository that exists in your account.
     * Choose where to store it on your system and then click 'Clone'.
     
-    ![scr6-correct](https://raw.githubusercontent.com/EmmanuelHillary/Bluelancer-Frontend/main/readme/Screenshot%20(51)_LI.jpg)
+    ![scr6-correct](https://raw.githubusercontent.com/EmmanuelHillary/Bluelancer-Frontend/main/readme/Screenshot%20(52)_LI.jpg)
     
     * A pop-up should appear. Then select the option below
     
-    ![scr7](https://raw.githubusercontent.com/EmmanuelHillary/Bluelancer-Frontend/main/readme/Screenshot%20(52)_LI.jpg)
+    ![scr7](https://raw.githubusercontent.com/EmmanuelHillary/Bluelancer-Frontend/main/readme/Screenshot%20(53)_LI.jpg)
     
 ### Awesome 👍. You just created a fork and clone it to your PC.
 
@@ -56,17 +56,17 @@ In other for the repository to be easily accessible by others, we have decided t
 form of a folder and the name of the folder should be a brief description of what you worked on e.g landing_page, <br/> navigation_bar, footer_section etc. <br/>
 Inside the folder you created, you should then add the files (HTML and/or CSS) for the part you worked on.</br>
 
-![scr8](https://raw.githubusercontent.com/EmmanuelHillary/Bluelancer-Frontend/main/readme/Screenshot%20(53)_LI.jpg)
-![image](https://raw.githubusercontent.com/EmmanuelHillary/Bluelancer-Frontend/main/readme/Screenshot%20(54)_LI.jpg)
+![scr8](https://raw.githubusercontent.com/EmmanuelHillary/Bluelancer-Frontend/main/readme/Screenshot%20(54)_LI.jpg)
+![image](https://raw.githubusercontent.com/EmmanuelHillary/Bluelancer-Frontend/main/readme/Screenshot%20(55).jpg)
 
 ### Commit your changes and push to Github
 To commit and push your contribution, follow the steps below:
 1. If you're using Github Desktop, skip to Step 2. For CMD, do the following:
     * Navigate to the base directory of the repo and not your folder directory
 
-    ![scr10-wrong](https://raw.githubusercontent.com/EmmanuelHillary/Bluelancer-Frontend/main/readme/Screenshot%20(55)I.jpg)
-    ![scr10](https://raw.githubusercontent.com/EmmanuelHillary/Bluelancer-Frontend/main/readme/Screenshot%20(56)_LI.jpg)
-    ![scr10-correct](https://raw.githubusercontent.com/EmmanuelHillary/Bluelancer-Frontend/main/readme/Screenshot%20(57).jpg)
+    ![scr10-wrong](https://raw.githubusercontent.com/EmmanuelHillary/Bluelancer-Frontend/main/readme/Screenshot%20(56)I.jpg)
+    ![scr10](https://raw.githubusercontent.com/EmmanuelHillary/Bluelancer-Frontend/main/readme/Screenshot%20(57)_LI.jpg)
+    ![scr10-correct](https://raw.githubusercontent.com/EmmanuelHillary/Bluelancer-Frontend/main/readme/Screenshot%20(58).jpg)
 
     * Then run the following commands:
         * ``` git add . ```
@@ -78,11 +78,11 @@ To commit and push your contribution, follow the steps below:
     * add your commit message
     * click 'Commit to main'
 
-        ![scr11](https://raw.githubusercontent.com/EmmanuelHillary/Bluelancer-Frontend/main/readme/Screenshot%20(58)_LI.jpg)
+        ![scr11](https://raw.githubusercontent.com/EmmanuelHillary/Bluelancer-Frontend/main/readme/Screenshot%20(59)_LI.jpg)
 
     * then click 'Push origin'
 
-        ![scr12](https://raw.githubusercontent.com/EmmanuelHillary/Bluelancer-Frontend/main/readme/Screenshot%20(59)_LI.jpg)
+        ![scr12](https://raw.githubusercontent.com/EmmanuelHillary/Bluelancer-Frontend/main/readme/Screenshot%20(60)_LI.jpg)
 
 Now we have our contributions pushed to our forked repository. Weldone 👍
 
@@ -92,7 +92,7 @@ After successfully pushing your contribution, go to Github and open your forked 
 repository and you should your changes should reflect 👇 (this is just a sample)
 
 
-![scr13](https://raw.githubusercontent.com/EmmanuelHillary/Bluelancer-Frontend/main/readme/Screenshot%20(60)_LI.jpg)
+![scr13](https://raw.githubusercontent.com/EmmanuelHillary/Bluelancer-Frontend/main/readme/Screenshot%20(61)_LI.jpg)
 
 Next, we need to <strong>create a pull request</strong>, that is linked to the issue/task we were assigned.<br/>
 <span style="color: red">NOTE: If you were not assigned any task/issue directly from the Github Projects,</br>
@@ -101,7 +101,7 @@ This is very important.</span><br/>
 To create a PR and link your task/issue, follow the steps:
 * Select Contribute and click on 'Open Pull Request'
 
-    ![scr14](https://raw.githubusercontent.com/EmmanuelHillary/Bluelancer-Frontend/main/readme/Screenshot%20(61)_LI.jpg)
+    ![scr14](https://raw.githubusercontent.com/EmmanuelHillary/Bluelancer-Frontend/main/readme/Screenshot%20(62)_LI.jpg)
 
 * Make sure the following are correct:
     * a => the main repository you cloned from (zuri-training/team18_cms_frontend)
@@ -109,14 +109,11 @@ To create a PR and link your task/issue, follow the steps:
     * c => your own forked repository
     * d => the 'main' branch of your owned forked repository
 
-        ![scr15](https://raw.githubusercontent.com/EmmanuelHillary/Bluelancer-Frontend/main/readme/Screenshot%20(62)_LI.jpg)
+        ![scr15](https://raw.githubusercontent.com/EmmanuelHillary/Bluelancer-Frontend/main/readme/Screenshot%20(63)_LI.jpg)
 
 * In the comment box, do the following:
     1. Type in 'Resolves #' and this should display a drop-down of the availbale issues.
-    2. From this drop-down, select the issue/task assigned to you
-
-        ![scr16](https://raw.githubusercontent.com/EmmanuelHillary/Bluelancer-Frontend/main/readme/Screenshot%20(63)_LI.jpg)
-
+       - From this drop-down, select the issue/task assigned to you
     3. Then click 'Create pull request'
 
 And there you have it. You have successfully added your contribution <br/>
