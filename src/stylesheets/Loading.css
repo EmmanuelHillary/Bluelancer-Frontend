@@ -1,0 +1,16 @@
+.loading-page{
+    padding: 50px;
+    font-family: 'DM Sans';
+    font-size: 30px;
+    color: #2F54EB; 
+}
+@media(max-width: 865px){
+    .loading-page{
+        padding: 20px;
+        font-family: 'DM Sans';
+        font-size: 20px;
+        color: #2F54EB; 
+    }
+   
+  }
+  
